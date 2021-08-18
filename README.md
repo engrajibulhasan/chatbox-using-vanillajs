@@ -2,4 +2,4 @@
 ## Language/Library
 -  HTML, CSS, JavaScript and Jquery 
 
-[VISIT Live Demo](https://choosealicense.com/licenses/mit/)
+[VISIT Live Demo](https://engrajibulhasan.github.io/chatbox-using-vanillajs/index.html)
