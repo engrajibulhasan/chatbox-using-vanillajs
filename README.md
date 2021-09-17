@@ -1,4 +1,4 @@
-# CHATBOX design using Vanilla JS, 
+# CHATBOX UI design using Vanilla JS, 
 ## Language/Library
 -  HTML, CSS, SCSS, JavaScript and Jquery 
 
